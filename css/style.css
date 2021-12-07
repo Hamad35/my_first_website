@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: aqua;
+}
+
+.main{
+    background-image: url(../images/Screenshot\ 2021-12-07\ 095455.png);
+    z-index: 1;
+}
